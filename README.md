@@ -18,6 +18,9 @@ Three organizations contributed recommendations on what services to include:
 
 ### What procedure codes correspond to these services? ###
 
+An initial search for this information began with the HHS Innovation Lab [Demand Driven Open Data project](https://github.com/demand-driven-open-data/ddod-intake/issues/44).
+
+
 While there is no official guidance, CDC published a list of procedure and diagnostic codes that align with these services [here](http://www.cdc.gov/prevention/billingcodes.html#0.1_contraception).  
 
 **Step 1**: Convert the CDC html into a non-normalized .csv  file.
