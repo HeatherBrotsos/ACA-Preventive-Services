@@ -23,7 +23,7 @@ An initial search for this information began with the HHS Innovation Lab [Demand
 
 While there is no official guidance, CDC published a list of procedure and diagnostic codes that align with these services [here](http://www.cdc.gov/prevention/billingcodes.html#0.1_contraception).  
 
-**Step 1**: Convert the CDC html into a non-normalized .csv  file.
+**Step 1**: Convert the CDC html into a non-normalized [.csv  file](data/ACA_Preventive_Services_CDC_Copy.csv).
 
 
 
