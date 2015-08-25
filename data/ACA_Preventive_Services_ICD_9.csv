@@ -1,0 +1,1016 @@
+Group,ICD_9_Code,CODE DESCRIPTION,Service
+All,V030 ,VACCIN FOR CHOLERA,Wellness Examinations
+All,V031 ,VACC-TYPHOID-PARATYPHOID,Wellness Examinations
+All,V032 ,VACCIN FOR TUBERCULOSIS,Wellness Examinations
+All,V033 ,VACCIN FOR PLAGUE,Wellness Examinations
+All,V034 ,VACCIN FOR TULAREMIA,Wellness Examinations
+All,V035 ,VACCIN FOR DIPHTHERIA,Wellness Examinations
+All,V036 ,VACCIN FOR PERTUSSIS,Wellness Examinations
+All,V037 ,TETANUS TOXOID INOCULAT,Wellness Examinations
+All,V038 ,VACCIN FOR BACT DIS NEC (End 1994),Wellness Examinations
+All,V0381,VACCIN FOR HEMOPH INFLUENZA (Begin 1994),Wellness Examinations
+All,V0382,VACCIN FOR STREP PNEUMON (Begin 1994),Wellness Examinations
+All,V0389,VACCIN FOR BACT DIS NEC (Begin 1994),Wellness Examinations
+All,V039 ,VACCIN FOR BACT DIS NOS,Wellness Examinations
+All,V040 ,VACCIN FOR POLIOMYELITIS,Wellness Examinations
+All,V041 ,VACCIN FOR SMALLPOX,Wellness Examinations
+All,V042 ,VACCIN FOR MEASLES,Wellness Examinations
+All,V043 ,VACCIN FOR RUBELLA,Wellness Examinations
+All,V044 ,VACCIN FOR YELLOW FEVER,Wellness Examinations
+All,V045 ,VACCIN FOR RABIES,Wellness Examinations
+All,V046 ,VACCIN FOR MUMPS,Wellness Examinations
+All,V047 ,VACCIN FOR COMMON COLD,Wellness Examinations
+All,V048 ,VACCIN FOR INFLUENZA (End 2003),Wellness Examinations
+All,V0481,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Wellness Examinations
+All,V0482,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Wellness Examinations
+All,V0489,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Wellness Examinations
+All,V050 ,ARBOVIRUS ENCEPH VACCIN,Wellness Examinations
+All,V051 ,VACC ARBOVIRAL DIS NEC,Wellness Examinations
+All,V052 ,VACCIN FOR LEISHMANIASIS,Wellness Examinations
+All,V053 ,VACCIN FOR VIRAL HEPATITIS (Begin 1993),Wellness Examinations
+All,V054 ,VACCIN FOR VARICELLA (Begin 1993),Wellness Examinations
+All,V058 ,VACCIN FOR DISEASE NEC,Wellness Examinations
+All,V059 ,VACCIN FOR SINGL DIS NOS,Wellness Examinations
+All,V060 ,VACCIN FOR CHOLERA + TAB,Wellness Examinations
+All,V061 ,VACCIN FOR DTP,Wellness Examinations
+All,V062 ,VACCIN FOR DTP + TAB,Wellness Examinations
+All,V063 ,VACCIN FOR DTP + POLIO,Wellness Examinations
+All,V064 ,VAC-MEASLE-MUMPS-RUBELLA,Wellness Examinations
+All,V065 ,VACCIN FOR TETANUS-DIPHTHERIA (Begin 1994),Wellness Examinations
+All,V066 ,VACCIN FOR STREP PNEUMON & INFLU (Begin 1994),Wellness Examinations
+All,V068 ,VAC-DIS COMBINATIONS NEC,Wellness Examinations
+All,V069 ,VAC-DIS COMBINATIONS NOS,Wellness Examinations
+All,V069 ,VAC-DIS COMBINATIONS NOS,Wellness Examinations
+All,V200 ,FOUNDLING HEALTH CARE,Wellness Examinations
+All,V201 ,CARE OF HEALTHY CHLD NEC,Wellness Examinations
+All,V202 ,ROUTIN CHILD HEALTH EXAM,Wellness Examinations
+All,V202 ,ROUTIN CHILD HEALTH EXAM,Wellness Examinations
+All,V2031,Health supvsn nb <8 days (Begin 2009),Wellness Examinations
+All,V2032,Health supv nb 8-28 days (Begin 2009),Wellness Examinations
+All,V2032,Health supv nb 8-28 days (Begin 2009),Wellness Examinations
+All,V700,ROUTINE MEDICAL EXAM,Wellness Examinations
+All,V242,ROUT POSTPART FOLLOW-UP,Wellness Examinations
+All,V723,GYNECOLOGIC EXAMINATION (End 2004),Wellness Examinations
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Wellness Examinations
+All,V762,SCREEN MAL NEOP-CERVIX,Wellness Examinations
+All,V7646,SCREEN MALIG OVARY (Begin 2000),Wellness Examinations
+All,V7647,SCREEN MALIG VAGINA (Begin 2000),Wellness Examinations
+All,V8402,GENETC SUS MAL NEO OVARY (Begin 2004),Wellness Examinations
+All,V8404,GENETC SUSC MAL NEO ENDO (Begin 2004),Wellness Examinations
+All,V1582,HISTORY OF TOBACCO USE,Abdominal Aortic Aneurysm Screening
+All,V6542,COUNSELING FOR SUBSTANCE ABUSE (Begin 1994),Alcohol Misuse
+All,V6549,OTHER COUNSELING NEC (Begin 1994),Alcohol Misuse
+All,V791,SCREEN FOR ALCOHOLISM,Alcohol Misuse
+All,V220,SUPERVIS NORMAL 1ST PREG,"Anemia, Iron Deficiency Anemia Screening"
+All,V221,SUPERVIS OTH NORMAL PREG,"Anemia, Iron Deficiency Anemia Screening"
+All,V222,PREG STATE- INCIDENTAL,"Anemia, Iron Deficiency Anemia Screening"
+All,V230,PREG W HX OF INFERTILITY,"Anemia, Iron Deficiency Anemia Screening"
+All,V231,PREG W HX-TROPHOBLAS DIS,"Anemia, Iron Deficiency Anemia Screening"
+All,V232,PREG W HX OF ABORTION,"Anemia, Iron Deficiency Anemia Screening"
+All,V233,GRAND MULTIPARITY,"Anemia, Iron Deficiency Anemia Screening"
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),"Anemia, Iron Deficiency Anemia Screening"
+All,V2342,Preg w hx ectopic preg (Begin 2011),"Anemia, Iron Deficiency Anemia Screening"
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),"Anemia, Iron Deficiency Anemia Screening"
+All,V235,PREG W POOR REPRODUCT HX,"Anemia, Iron Deficiency Anemia Screening"
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),"Anemia, Iron Deficiency Anemia Screening"
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),"Anemia, Iron Deficiency Anemia Screening"
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),"Anemia, Iron Deficiency Anemia Screening"
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),"Anemia, Iron Deficiency Anemia Screening"
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),"Anemia, Iron Deficiency Anemia Screening"
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),"Anemia, Iron Deficiency Anemia Screening"
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),"Anemia, Iron Deficiency Anemia Screening"
+All,V2387,Preg w incon fetl viabil (Begin 2011),"Anemia, Iron Deficiency Anemia Screening"
+All,V2389,OTH HI RISK PREG (Begin 1998),"Anemia, Iron Deficiency Anemia Screening"
+All,V239,SUPRV HIGH-RISK PREG NOS,"Anemia, Iron Deficiency Anemia Screening"
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9101,Twin gest-monochr/monoam (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9102,Twin gest-monochr/diamni (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9109,Twin gest-plac/sac undet (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9111,Triplet gest 2+ monochor (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9119,Tripl gest-plac/sac und (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9121,Quad gest 2+ monochorion (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9129,Quad gest-plac/sac undet (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V9199,Mult gest-plac/sac undet (Begin 2010),"Anemia, Iron Deficiency Anemia Screening"
+All,V220,SUPERVIS NORMAL 1ST PREG,Bacteriuria Screening
+All,V221,SUPERVIS OTH NORMAL PREG,Bacteriuria Screening
+All,V222,PREG STATE- INCIDENTAL,Bacteriuria Screening
+All,V230,PREG W HX OF INFERTILITY,Bacteriuria Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,Bacteriuria Screening
+All,V232,PREG W HX OF ABORTION,Bacteriuria Screening
+All,V233,GRAND MULTIPARITY,Bacteriuria Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Bacteriuria Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),Bacteriuria Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Bacteriuria Screening
+All,V235,PREG W POOR REPRODUCT HX,Bacteriuria Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Bacteriuria Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Bacteriuria Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Bacteriuria Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Bacteriuria Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Bacteriuria Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Bacteriuria Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Bacteriuria Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),Bacteriuria Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),Bacteriuria Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,Bacteriuria Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),Bacteriuria Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),Bacteriuria Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),Bacteriuria Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),Bacteriuria Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),Bacteriuria Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),Bacteriuria Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),Bacteriuria Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),Bacteriuria Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),Bacteriuria Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),Bacteriuria Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),Bacteriuria Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),Bacteriuria Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),Bacteriuria Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),Bacteriuria Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),Bacteriuria Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Bacteriuria Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),Bacteriuria Screening
+All,V241,POSTPART CARE-LACTATION,"Breastfeeding Support, Supplies, and Counseling"
+All,V700,ROUTINE MEDICAL EXAM,Cervical Cancer
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Cervical Cancer
+All,V7232,PAP SMEAR CONFIRMATION (Begin 2004),Cervical Cancer
+All,V762,SCREEN MAL NEOP-CERVIX,Cervical Cancer
+All,V163,FAMILY HX-BREAST MALIG,Chemoprevention of Breast Cancer
+All,V1641,FAM HX MALIG NEOPL OVARY (Begin 1997),Chemoprevention of Breast Cancer
+All,V700,ROUTINE MEDICAL EXAM,Chlamydia Infection Screening
+All,V7388,SCREEN FOR OTH SPEC CHLAMYDIAL DIS (Begin 1993),Chlamydia Infection Screening
+All,V7398,SCREEN FOR UNSPEC CHLAMYDIAL DIS (Begin 1993),Chlamydia Infection Screening
+All,V745,SCREEN FOR VENERAL DIS,Chlamydia Infection Screening
+All,V759,SCREEN FOR INFEC DIS NOS,Chlamydia Infection Screening
+All,V220,SUPERVIS NORMAL 1ST PREG,Chlamydia Infection Screening
+All,V221,SUPERVIS OTH NORMAL PREG,Chlamydia Infection Screening
+All,V222,PREG STATE- INCIDENTAL,Chlamydia Infection Screening
+All,V230,PREG W HX OF INFERTILITY,Chlamydia Infection Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,Chlamydia Infection Screening
+All,V232,PREG W HX OF ABORTION,Chlamydia Infection Screening
+All,V233,GRAND MULTIPARITY,Chlamydia Infection Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Chlamydia Infection Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),Chlamydia Infection Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Chlamydia Infection Screening
+All,V235,PREG W POOR REPRODUCT HX,Chlamydia Infection Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Chlamydia Infection Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Chlamydia Infection Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Chlamydia Infection Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Chlamydia Infection Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Chlamydia Infection Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Chlamydia Infection Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Chlamydia Infection Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),Chlamydia Infection Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),Chlamydia Infection Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,Chlamydia Infection Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),Chlamydia Infection Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),Chlamydia Infection Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),Chlamydia Infection Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),Chlamydia Infection Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),Chlamydia Infection Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),Chlamydia Infection Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),Chlamydia Infection Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),Chlamydia Infection Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),Chlamydia Infection Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),Chlamydia Infection Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),Chlamydia Infection Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),Chlamydia Infection Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),Chlamydia Infection Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),Chlamydia Infection Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),Chlamydia Infection Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Chlamydia Infection Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),Chlamydia Infection Screening
+All,V700,ROUTINE MEDICAL EXAM,Cholesterol Screening
+All,V7791,SCREEN LIPOID DISORDERS (Begin 2000),Cholesterol Screening
+All,4010,MALIGNANT HYPERTENSION,Cholesterol Screening
+All,4011,BENIGN HYPERTENSION,Cholesterol Screening
+All,4019,HYPERTENSION NOS,Cholesterol Screening
+All,40200,MAL HYPERTEN HRT DIS NOS,Cholesterol Screening
+All,40201,MAL HYPERT HRT DIS W CHF,Cholesterol Screening
+All,40210,BEN HYPERTEN HRT DIS NOS,Cholesterol Screening
+All,40211,BENIGN HYP HRT DIS W CHF,Cholesterol Screening
+All,40290,HYPERTENSIVE HRT DIS NOS,Cholesterol Screening
+All,40291,HYPERTEN HEART DIS W CHF,Cholesterol Screening
+All,40300,MAL HYP REN W/O REN FAIL (Begin 1989),Cholesterol Screening
+All,40301,MAL HYP REN W RENAL FAIL (Begin 1989),Cholesterol Screening
+All,40310,BEN HYP REN W/O REN FAIL (Begin 1989),Cholesterol Screening
+All,40311,BEN HYP RENAL W REN FAIL (Begin 1989),Cholesterol Screening
+All,40390,HYP REN NOS W/O REN FAIL (Begin 1989),Cholesterol Screening
+All,40391,HYP RENAL NOS W REN FAIL (Begin 1989),Cholesterol Screening
+All,40400,MAL HY HT/REN W/O CHF/RF (Begin 1989),Cholesterol Screening
+All,40401,MAL HYPER HRT/REN W CHF (Begin 1989),Cholesterol Screening
+All,40402,MAL HY HT/REN W REN FAIL (Begin 1989),Cholesterol Screening
+All,40403,MAL HYP HRT/REN W CHF  &  RF (Begin 1989),Cholesterol Screening
+All,40410,BEN HY HT/REN W/O CHF/RF (Begin 1989),Cholesterol Screening
+All,40411,BEN HYPER HRT/REN W CHF (Begin 1989),Cholesterol Screening
+All,40412,BEN HY HT/REN W REN FAIL (Begin 1989),Cholesterol Screening
+All,40413,BEN HYP HRT/REN W CHF  &  RF (Begin 1989),Cholesterol Screening
+All,40490,HY HT/REN NOS W/O CHF/RF (Begin 1989),Cholesterol Screening
+All,40491,HYPER HRT/REN NOS W CHF (Begin 1989),Cholesterol Screening
+All,40492,HY HT/REN NOS W REN FAIL (Begin 1989),Cholesterol Screening
+All,40493,HYP HT/REN NOS W CHF  &  RF (Begin 1989),Cholesterol Screening
+All,40501,MAL RENOVASC HYPERTENS,Cholesterol Screening
+All,40509,MAL SECOND HYPERTEN NEC,Cholesterol Screening
+All,40511,BENIGN RENOVASC HYPERTEN,Cholesterol Screening
+All,40519,BENIGN SECOND HYPERT NEC,Cholesterol Screening
+All,40591,RENOVASC HYPERTENSION,Cholesterol Screening
+All,40599,SECOND HYPERTENSION NEC,Cholesterol Screening
+All,64201,ESSEN HYPERTEN-DELIVERED,Cholesterol Screening
+All,64203,ESSEN HYPERTEN-ANTEPART,Cholesterol Screening
+All,64204,ESSEN HYPERTEN-POSTPART,Cholesterol Screening
+All,64211,RENAL HYPERTEN PG-DELIV,Cholesterol Screening
+All,64213,RENAL HYPERTEN-ANTEPART,Cholesterol Screening
+All,64214,RENAL HYPERTEN-POSTPART,Cholesterol Screening
+All,64221,OLD HYPERTEN NEC-DELIVER,Cholesterol Screening
+All,64223,OLD HYPERTEN NEC-ANTEPAR,Cholesterol Screening
+All,64224,OLD HYPERTEN NEC-POSTPAR,Cholesterol Screening
+All,64230,TRANS HYPERTEN PREG-UNSP,Cholesterol Screening
+All,64231,TRANS HYPERTEN-DELIVERED,Cholesterol Screening
+All,64233,TRANS HYPERTEN-ANTEPART,Cholesterol Screening
+All,64234,TRANS HYPERTEN-POSTPART,Cholesterol Screening
+All,64291,HYPERTENS NOS-DELIVERED,Cholesterol Screening
+All,64293,HYPERTENS NOS-ANTEPARTUM,Cholesterol Screening
+All,64294,HYPERTENS NOS-POSTPARTUM,Cholesterol Screening
+All,24900,SEC DM WO CMP NT ST UNCN (Begin 2008),Cholesterol Screening
+All,24901,SEC DM WO COMP UNCONTRLD (Begin 2008),Cholesterol Screening
+All,24910,SEC DM KETO NT ST UNCNTR (Begin 2008),Cholesterol Screening
+All,24911,SEC DM KETOACD UNCNTRLD (Begin 2008),Cholesterol Screening
+All,24920,SEC DM HPROS NT ST UNCNR (Begin 2008),Cholesterol Screening
+All,24921,SEC DM HPROSMLR UNCNTRLD (Begin 2008),Cholesterol Screening
+All,24930,SEC DM OT CMA NT ST UNCN (Begin 2008),Cholesterol Screening
+All,24931,SEC DM OTH COMA UNCNTRLD (Begin 2008),Cholesterol Screening
+All,24940,SEC DM RENL NT ST UNCNTR (Begin 2008),Cholesterol Screening
+All,24941,SEC DM RENAL UNCONTRLD (Begin 2008),Cholesterol Screening
+All,24950,SEC DM OPHTH NT ST UNCN (Begin 2008),Cholesterol Screening
+All,24951,SEC DM OPHTH UNCONTRLD (Begin 2008),Cholesterol Screening
+All,24960,SEC DM NEURO NT ST UNCN (Begin 2008),Cholesterol Screening
+All,24961,SEC DM NEURO UNCONTRLD (Begin 2008),Cholesterol Screening
+All,24970,SEC DM CIRC NT ST UNCNTR (Begin 2008),Cholesterol Screening
+All,24971,SEC DM CIRC UNCONTRLD (Begin 2008),Cholesterol Screening
+All,24980,SEC DM OTH NT ST UNCONTR (Begin 2008),Cholesterol Screening
+All,24981,SEC DM OTHER UNCONTRLD (Begin 2008),Cholesterol Screening
+All,24990,SEC DM UNSP NT ST UNCON (Begin 2008),Cholesterol Screening
+All,24991,SEC DM UNSP UNCONTROLD (Begin 2008),Cholesterol Screening
+All,25000,DIABETES UNCOMPL TYPE II,Cholesterol Screening
+All,25001,DIABETES UNCOMPL TYPE I,Cholesterol Screening
+All,25002,DIABETES MELL TYPE II UNCONT (Begin 1993),Cholesterol Screening
+All,25003,DIABETES MELL TYPE I UNCONT (Begin 1993),Cholesterol Screening
+All,25010,DIAB KETOACIDOSIS TYP II,Cholesterol Screening
+All,25011,DIAB KETOACIDOSIS TYPE I,Cholesterol Screening
+All,25012,DIAB KETOACID TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25013,DIAB KETOACID TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25020,DM HYPEROSM COMA TYPE II,Cholesterol Screening
+All,25021,DM HYPEROSM COMA TYPE I,Cholesterol Screening
+All,25022,DM W/ HYPEROSMO TYPE II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25023,DM W/ HYPEROSMO TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25030,DIABETES COMA NEC TYP II,Cholesterol Screening
+All,25031,DIABETES COMA NEC TYPE I,Cholesterol Screening
+All,25032,DIAB COMA NEC TYP II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25033,DIAB COMA NEC TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25040,DIAB RENAL MANIF TYPE II,Cholesterol Screening
+All,25041,DIAB RENAL MANIF TYPE I,Cholesterol Screening
+All,25042,DIAB RENAL MANIF TYPE II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25043,DIAB RENAL MANIF TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25050,DIAB EYE MANIF TYPE II,Cholesterol Screening
+All,25051,DIAB EYE MANIF TYPE I,Cholesterol Screening
+All,25052,DIAB EYE MANIF TYPE II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25053,DIAB EYE MANIF TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25060,DIAB NEURO MANIF TYPE II,Cholesterol Screening
+All,25061,DIAB NEURO MANIF TYPE I,Cholesterol Screening
+All,25062,DIAB NEURO MANIF TYPE II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25063,DIAB NEURO MANIF TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25070,DIAB CIRCULAT DIS TYP II,Cholesterol Screening
+All,25071,DIAB CIRCULAT DIS TYPE I,Cholesterol Screening
+All,25072,DIAB CIRCULAT DIS TYP II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25073,DIAB CIRCULAT DIS TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25080,DIAB W MANIF NEC TYPE II,Cholesterol Screening
+All,25081,DIAB W MANIF NEC TYPE I,Cholesterol Screening
+All,25082,DIAB W MANIF NEC TYPE II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25083,DIAB W MANIF NEC TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,25090,DIAB W COMPL NOS TYPE II,Cholesterol Screening
+All,25091,DIAB W COMPL NOS TYPE I,Cholesterol Screening
+All,25092,DIAB W COMPL NOS TYPE II DM UNCONT (Begin 1993),Cholesterol Screening
+All,25093,DIAB W COMPL NOS TYPE I DM UNCONT (Begin 1993),Cholesterol Screening
+All,V160,FAMILY HX-GI MALIGNANCY,Colorectal Cancer Screening
+All,V1851,FAMILY HX COLONIC POLYPS (Begin 2006),Colorectal Cancer Screening
+All,V1859,FAM HX DIGEST DISORD NEC (Begin 2006),Colorectal Cancer Screening
+All,V700,ROUTINE MEDICAL EXAM,Colorectal Cancer Screening
+All,V7262,Routine physicl lab exam (Begin 2009),Colorectal Cancer Screening
+All,V7641,SCREEN MAL NEOP-RECTUM,Colorectal Cancer Screening
+All,V7650,SCREEN MALIG INTESTINE UNSPEC (Begin 2000),Colorectal Cancer Screening
+All,V7651,SCREEN MALIG COLON (Begin 2000),Colorectal Cancer Screening
+All,V790,SCREEN FOR DEPRESSION,Depression
+All,V700,ROUTINE MEDICAL EXAM,Diabetes Screening
+All,V771,SCREEN DIABETES MELLITUS,Diabetes Screening
+All,4010,MALIGNANT HYPERTENSION,Diabetes Screening
+All,4011,BENIGN HYPERTENSION,Diabetes Screening
+All,4019,HYPERTENSION NOS,Diabetes Screening
+All,40200,MAL HYPERTEN HRT DIS NOS,Diabetes Screening
+All,40201,MAL HYPERT HRT DIS W CHF,Diabetes Screening
+All,40210,BEN HYPERTEN HRT DIS NOS,Diabetes Screening
+All,40211,BENIGN HYP HRT DIS W CHF,Diabetes Screening
+All,40290,HYPERTENSIVE HRT DIS NOS,Diabetes Screening
+All,40291,HYPERTEN HEART DIS W CHF,Diabetes Screening
+All,40300,MAL HYP REN W/O REN FAIL (Begin 1989),Diabetes Screening
+All,40301,MAL HYP REN W RENAL FAIL (Begin 1989),Diabetes Screening
+All,40310,BEN HYP REN W/O REN FAIL (Begin 1989),Diabetes Screening
+All,40311,BEN HYP RENAL W REN FAIL (Begin 1989),Diabetes Screening
+All,40390,HYP REN NOS W/O REN FAIL (Begin 1989),Diabetes Screening
+All,40391,HYP RENAL NOS W REN FAIL (Begin 1989),Diabetes Screening
+All,40400,MAL HY HT/REN W/O CHF/RF (Begin 1989),Diabetes Screening
+All,40401,MAL HYPER HRT/REN W CHF (Begin 1989),Diabetes Screening
+All,40402,MAL HY HT/REN W REN FAIL (Begin 1989),Diabetes Screening
+All,40403,MAL HYP HRT/REN W CHF  &  RF (Begin 1989),Diabetes Screening
+All,40410,BEN HY HT/REN W/O CHF/RF (Begin 1989),Diabetes Screening
+All,40411,BEN HYPER HRT/REN W CHF (Begin 1989),Diabetes Screening
+All,40412,BEN HY HT/REN W REN FAIL (Begin 1989),Diabetes Screening
+All,40413,BEN HYP HRT/REN W CHF  &  RF (Begin 1989),Diabetes Screening
+All,40490,HY HT/REN NOS W/O CHF/RF (Begin 1989),Diabetes Screening
+All,40491,HYPER HRT/REN NOS W CHF (Begin 1989),Diabetes Screening
+All,40492,HY HT/REN NOS W REN FAIL (Begin 1989),Diabetes Screening
+All,40493,HYP HT/REN NOS W CHF  &  RF (Begin 1989),Diabetes Screening
+All,40501,MAL RENOVASC HYPERTENS,Diabetes Screening
+All,40509,MAL SECOND HYPERTEN NEC,Diabetes Screening
+All,40511,BENIGN RENOVASC HYPERTEN,Diabetes Screening
+All,40519,BENIGN SECOND HYPERT NEC,Diabetes Screening
+All,40591,RENOVASC HYPERTENSION,Diabetes Screening
+All,40599,SECOND HYPERTENSION NEC,Diabetes Screening
+All,64201,ESSEN HYPERTEN-DELIVERED,Diabetes Screening
+All,64203,ESSEN HYPERTEN-ANTEPART,Diabetes Screening
+All,64204,ESSEN HYPERTEN-POSTPART,Diabetes Screening
+All,64211,RENAL HYPERTEN PG-DELIV,Diabetes Screening
+All,64213,RENAL HYPERTEN-ANTEPART,Diabetes Screening
+All,64214,RENAL HYPERTEN-POSTPART,Diabetes Screening
+All,64221,OLD HYPERTEN NEC-DELIVER,Diabetes Screening
+All,64223,OLD HYPERTEN NEC-ANTEPAR,Diabetes Screening
+All,64224,OLD HYPERTEN NEC-POSTPAR,Diabetes Screening
+All,64230,TRANS HYPERTEN PREG-UNSP,Diabetes Screening
+All,64231,TRANS HYPERTEN-DELIVERED,Diabetes Screening
+All,64233,TRANS HYPERTEN-ANTEPART,Diabetes Screening
+All,64234,TRANS HYPERTEN-POSTPART,Diabetes Screening
+All,64291,HYPERTENS NOS-DELIVERED,Diabetes Screening
+All,64293,HYPERTENS NOS-ANTEPARTUM,Diabetes Screening
+All,64294,HYPERTENS NOS-POSTPARTUM,Diabetes Screening
+All,V103,HX OF BREAST MALIGNANCY,Genetic Counseling and Evaluation for BRCA Testing
+All,V1043,HX OF OVARIAN MALIGNANCY,Genetic Counseling and Evaluation for BRCA Testing
+All,V163,FAMILY HX-BREAST MALIG,Genetic Counseling and Evaluation for BRCA Testing
+All,V1641,FAM HX MALIG NEOPL OVARY (Begin 1997),Genetic Counseling and Evaluation for BRCA Testing
+All,V700,ROUTINE MEDICAL EXAM,Gonorrhea Screening
+All,V745,SCREEN FOR VENERAL DIS,Gonorrhea Screening
+All,V759,SCREEN FOR INFEC DIS NOS,Gonorrhea Screening
+All,V220,SUPERVIS NORMAL 1ST PREG,Gonorrhea Screening
+All,V221,SUPERVIS OTH NORMAL PREG,Gonorrhea Screening
+All,V222,PREG STATE- INCIDENTAL,Gonorrhea Screening
+All,V230,PREG W HX OF INFERTILITY,Gonorrhea Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,Gonorrhea Screening
+All,V232,PREG W HX OF ABORTION,Gonorrhea Screening
+All,V233,GRAND MULTIPARITY,Gonorrhea Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Gonorrhea Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),Gonorrhea Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Gonorrhea Screening
+All,V235,PREG W POOR REPRODUCT HX,Gonorrhea Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Gonorrhea Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Gonorrhea Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Gonorrhea Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Gonorrhea Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Gonorrhea Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Gonorrhea Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Gonorrhea Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),Gonorrhea Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),Gonorrhea Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,Gonorrhea Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),Gonorrhea Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),Gonorrhea Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),Gonorrhea Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),Gonorrhea Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),Gonorrhea Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),Gonorrhea Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),Gonorrhea Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),Gonorrhea Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),Gonorrhea Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),Gonorrhea Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),Gonorrhea Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),Gonorrhea Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),Gonorrhea Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),Gonorrhea Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),Gonorrhea Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Gonorrhea Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),Gonorrhea Screening
+All,4010,MALIGNANT HYPERTENSION,Healthy Diet/Obesity Counseling
+All,4011,BENIGN HYPERTENSION,Healthy Diet/Obesity Counseling
+All,4019,HYPERTENSION NOS,Healthy Diet/Obesity Counseling
+All,40200,MAL HYPERTEN HRT DIS NOS,Healthy Diet/Obesity Counseling
+All,40201,MAL HYPERT HRT DIS W CHF,Healthy Diet/Obesity Counseling
+All,40210,BEN HYPERTEN HRT DIS NOS,Healthy Diet/Obesity Counseling
+All,40211,BENIGN HYP HRT DIS W CHF,Healthy Diet/Obesity Counseling
+All,40290,HYPERTENSIVE HRT DIS NOS,Healthy Diet/Obesity Counseling
+All,40291,HYPERTEN HEART DIS W CHF,Healthy Diet/Obesity Counseling
+All,40300,MAL HYP REN W/O REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40301,MAL HYP REN W RENAL FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40310,BEN HYP REN W/O REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40311,BEN HYP RENAL W REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40390,HYP REN NOS W/O REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40391,HYP RENAL NOS W REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40400,MAL HY HT/REN W/O CHF/RF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40401,MAL HYPER HRT/REN W CHF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40402,MAL HY HT/REN W REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40403,MAL HYP HRT/REN W CHF  &  RF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40410,BEN HY HT/REN W/O CHF/RF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40411,BEN HYPER HRT/REN W CHF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40412,BEN HY HT/REN W REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40413,BEN HYP HRT/REN W CHF  &  RF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40490,HY HT/REN NOS W/O CHF/RF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40491,HYPER HRT/REN NOS W CHF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40492,HY HT/REN NOS W REN FAIL (Begin 1989),Healthy Diet/Obesity Counseling
+All,40493,HYP HT/REN NOS W CHF  &  RF (Begin 1989),Healthy Diet/Obesity Counseling
+All,40501,MAL RENOVASC HYPERTENS,Healthy Diet/Obesity Counseling
+All,40509,MAL SECOND HYPERTEN NEC,Healthy Diet/Obesity Counseling
+All,40511,BENIGN RENOVASC HYPERTEN,Healthy Diet/Obesity Counseling
+All,40519,BENIGN SECOND HYPERT NEC,Healthy Diet/Obesity Counseling
+All,40591,RENOVASC HYPERTENSION,Healthy Diet/Obesity Counseling
+All,40599,SECOND HYPERTENSION NEC,Healthy Diet/Obesity Counseling
+All,64201,ESSEN HYPERTEN-DELIVERED,Healthy Diet/Obesity Counseling
+All,64203,ESSEN HYPERTEN-ANTEPART,Healthy Diet/Obesity Counseling
+All,64204,ESSEN HYPERTEN-POSTPART,Healthy Diet/Obesity Counseling
+All,64211,RENAL HYPERTEN PG-DELIV,Healthy Diet/Obesity Counseling
+All,64213,RENAL HYPERTEN-ANTEPART,Healthy Diet/Obesity Counseling
+All,64214,RENAL HYPERTEN-POSTPART,Healthy Diet/Obesity Counseling
+All,64221,OLD HYPERTEN NEC-DELIVER,Healthy Diet/Obesity Counseling
+All,64223,OLD HYPERTEN NEC-ANTEPAR,Healthy Diet/Obesity Counseling
+All,64224,OLD HYPERTEN NEC-POSTPAR,Healthy Diet/Obesity Counseling
+All,64230,TRANS HYPERTEN PREG-UNSP,Healthy Diet/Obesity Counseling
+All,64231,TRANS HYPERTEN-DELIVERED,Healthy Diet/Obesity Counseling
+All,64233,TRANS HYPERTEN-ANTEPART,Healthy Diet/Obesity Counseling
+All,64234,TRANS HYPERTEN-POSTPART,Healthy Diet/Obesity Counseling
+All,64291,HYPERTENS NOS-DELIVERED,Healthy Diet/Obesity Counseling
+All,64293,HYPERTENS NOS-ANTEPARTUM,Healthy Diet/Obesity Counseling
+All,64294,HYPERTENS NOS-POSTPARTUM,Healthy Diet/Obesity Counseling
+All,24900,SEC DM WO CMP NT ST UNCN (Begin 2008),Healthy Diet/Obesity Counseling
+All,24901,SEC DM WO COMP UNCONTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24910,SEC DM KETO NT ST UNCNTR (Begin 2008),Healthy Diet/Obesity Counseling
+All,24911,SEC DM KETOACD UNCNTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24920,SEC DM HPROS NT ST UNCNR (Begin 2008),Healthy Diet/Obesity Counseling
+All,24921,SEC DM HPROSMLR UNCNTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24930,SEC DM OT CMA NT ST UNCN (Begin 2008),Healthy Diet/Obesity Counseling
+All,24931,SEC DM OTH COMA UNCNTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24940,SEC DM RENL NT ST UNCNTR (Begin 2008),Healthy Diet/Obesity Counseling
+All,24941,SEC DM RENAL UNCONTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24950,SEC DM OPHTH NT ST UNCN (Begin 2008),Healthy Diet/Obesity Counseling
+All,24951,SEC DM OPHTH UNCONTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24960,SEC DM NEURO NT ST UNCN (Begin 2008),Healthy Diet/Obesity Counseling
+All,24961,SEC DM NEURO UNCONTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24970,SEC DM CIRC NT ST UNCNTR (Begin 2008),Healthy Diet/Obesity Counseling
+All,24971,SEC DM CIRC UNCONTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24980,SEC DM OTH NT ST UNCONTR (Begin 2008),Healthy Diet/Obesity Counseling
+All,24981,SEC DM OTHER UNCONTRLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,24990,SEC DM UNSP NT ST UNCON (Begin 2008),Healthy Diet/Obesity Counseling
+All,24991,SEC DM UNSP UNCONTROLD (Begin 2008),Healthy Diet/Obesity Counseling
+All,25000,DIABETES UNCOMPL TYPE II,Healthy Diet/Obesity Counseling
+All,25001,DIABETES UNCOMPL TYPE I,Healthy Diet/Obesity Counseling
+All,25002,DIABETES MELL TYPE II UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25003,DIABETES MELL TYPE I UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25010,DIAB KETOACIDOSIS TYP II,Healthy Diet/Obesity Counseling
+All,25011,DIAB KETOACIDOSIS TYPE I,Healthy Diet/Obesity Counseling
+All,25012,DIAB KETOACID TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25013,DIAB KETOACID TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25020,DM HYPEROSM COMA TYPE II,Healthy Diet/Obesity Counseling
+All,25021,DM HYPEROSM COMA TYPE I,Healthy Diet/Obesity Counseling
+All,25022,DM W/ HYPEROSMO TYPE II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25023,DM W/ HYPEROSMO TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25030,DIABETES COMA NEC TYP II,Healthy Diet/Obesity Counseling
+All,25031,DIABETES COMA NEC TYPE I,Healthy Diet/Obesity Counseling
+All,25032,DIAB COMA NEC TYP II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25033,DIAB COMA NEC TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25040,DIAB RENAL MANIF TYPE II,Healthy Diet/Obesity Counseling
+All,25041,DIAB RENAL MANIF TYPE I,Healthy Diet/Obesity Counseling
+All,25042,DIAB RENAL MANIF TYPE II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25043,DIAB RENAL MANIF TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25050,DIAB EYE MANIF TYPE II,Healthy Diet/Obesity Counseling
+All,25051,DIAB EYE MANIF TYPE I,Healthy Diet/Obesity Counseling
+All,25052,DIAB EYE MANIF TYPE II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25053,DIAB EYE MANIF TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25060,DIAB NEURO MANIF TYPE II,Healthy Diet/Obesity Counseling
+All,25061,DIAB NEURO MANIF TYPE I,Healthy Diet/Obesity Counseling
+All,25062,DIAB NEURO MANIF TYPE II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25063,DIAB NEURO MANIF TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25070,DIAB CIRCULAT DIS TYP II,Healthy Diet/Obesity Counseling
+All,25071,DIAB CIRCULAT DIS TYPE I,Healthy Diet/Obesity Counseling
+All,25072,DIAB CIRCULAT DIS TYP II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25073,DIAB CIRCULAT DIS TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25080,DIAB W MANIF NEC TYPE II,Healthy Diet/Obesity Counseling
+All,25081,DIAB W MANIF NEC TYPE I,Healthy Diet/Obesity Counseling
+All,25082,DIAB W MANIF NEC TYPE II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25083,DIAB W MANIF NEC TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25090,DIAB W COMPL NOS TYPE II,Healthy Diet/Obesity Counseling
+All,25091,DIAB W COMPL NOS TYPE I,Healthy Diet/Obesity Counseling
+All,25092,DIAB W COMPL NOS TYPE II DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,25093,DIAB W COMPL NOS TYPE I DM UNCONT (Begin 1993),Healthy Diet/Obesity Counseling
+All,V220,SUPERVIS NORMAL 1ST PREG,Hepatitis B Virus Infection Screening
+All,V221,SUPERVIS OTH NORMAL PREG,Hepatitis B Virus Infection Screening
+All,V222,PREG STATE- INCIDENTAL,Hepatitis B Virus Infection Screening
+All,V230,PREG W HX OF INFERTILITY,Hepatitis B Virus Infection Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,Hepatitis B Virus Infection Screening
+All,V232,PREG W HX OF ABORTION,Hepatitis B Virus Infection Screening
+All,V233,GRAND MULTIPARITY,Hepatitis B Virus Infection Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Hepatitis B Virus Infection Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),Hepatitis B Virus Infection Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Hepatitis B Virus Infection Screening
+All,V235,PREG W POOR REPRODUCT HX,Hepatitis B Virus Infection Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Hepatitis B Virus Infection Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Hepatitis B Virus Infection Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Hepatitis B Virus Infection Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Hepatitis B Virus Infection Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Hepatitis B Virus Infection Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Hepatitis B Virus Infection Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Hepatitis B Virus Infection Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),Hepatitis B Virus Infection Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),Hepatitis B Virus Infection Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,Hepatitis B Virus Infection Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Hepatitis B Virus Infection Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),Hepatitis B Virus Infection Screening
+All,V200 ,FOUNDLING HEALTH CARE,Hepatitis C Screening
+All,V201 ,CARE OF HEALTHY CHLD NEC,Hepatitis C Screening
+All,V202 ,ROUTIN CHILD HEALTH EXAM,Hepatitis C Screening
+All,V202 ,ROUTIN CHILD HEALTH EXAM,Hepatitis C Screening
+All,V242 ,ROUT POSTPART FOLLOW-UP,Hepatitis C Screening
+All,V700,ROUTINE MEDICAL EXAM,Hepatitis C Screening
+All,V723,GYNECOLOGIC EXAMINATION (End 2004),Hepatitis C Screening
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Hepatitis C Screening
+All,V7262,Routine physicl lab exam (Begin 2009),Hepatitis C Screening
+All,V029,CARRIER NEC,HIV Screening
+All,V200 ,FOUNDLING HEALTH CARE,HIV Screening
+All,V201 ,CARE OF HEALTHY CHLD NEC,HIV Screening
+All,V202 ,ROUTIN CHILD HEALTH EXAM,HIV Screening
+All,V202 ,ROUTIN CHILD HEALTH EXAM,HIV Screening
+All,V700,ROUTINE MEDICAL EXAM,HIV Screening
+All,V723,GYNECOLOGIC EXAMINATION (End 2004),HIV Screening
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),HIV Screening
+All,V7262,Routine physicl lab exam (Begin 2009),HIV Screening
+All,V7389,SCREEN FOR OTH SPEC VIRAL DIS (Begin 1993),HIV Screening
+All,V745,SCREEN FOR VENERAL DIS,HIV Screening
+All,V759,SCREEN FOR INFEC DIS NOS,HIV Screening
+All,V220,SUPERVIS NORMAL 1ST PREG,HIV Screening
+All,V221,SUPERVIS OTH NORMAL PREG,HIV Screening
+All,V222,PREG STATE- INCIDENTAL,HIV Screening
+All,V230,PREG W HX OF INFERTILITY,HIV Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,HIV Screening
+All,V232,PREG W HX OF ABORTION,HIV Screening
+All,V233,GRAND MULTIPARITY,HIV Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),HIV Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),HIV Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),HIV Screening
+All,V235,PREG W POOR REPRODUCT HX,HIV Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),HIV Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),HIV Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),HIV Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),HIV Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),HIV Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),HIV Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),HIV Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),HIV Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),HIV Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,HIV Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),HIV Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),HIV Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),HIV Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),HIV Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),HIV Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),HIV Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),HIV Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),HIV Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),HIV Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),HIV Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),HIV Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),HIV Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),HIV Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),HIV Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),HIV Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),HIV Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),HIV Screening
+All,V242,ROUT POSTPART FOLLOW-UP,Human Papillomavirus DNA Testing
+All,V700,ROUTINE MEDICAL EXAM,Human Papillomavirus DNA Testing
+All,V723,GYNECOLOGIC EXAMINATION (End 2004),Human Papillomavirus DNA Testing
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Human Papillomavirus DNA Testing
+All,V726,LABORATORY EXAMINATION (end 2009),Human Papillomavirus DNA Testing
+All,V7260,Laboratory exam NOS (Begin 2009),Human Papillomavirus DNA Testing
+All,V7262,Routine physicl lab exam (Begin 2009),Human Papillomavirus DNA Testing
+All,V7381,SPECIAL SCREEN EXAM HPV (Begin 2007),Human Papillomavirus DNA Testing
+All,V762,SCREEN MAL NEOP-CERVIX,Human Papillomavirus DNA Testing
+All,V7646,SCREEN MALIG OVARY (Begin 2000),Human Papillomavirus DNA Testing
+All,V7647,SCREEN MALIG VAGINA (Begin 2000),Human Papillomavirus DNA Testing
+All,V8402,GENETC SUS MAL NEO OVARY (Begin 2004),Human Papillomavirus DNA Testing
+All,V8404,GENETC SUSC MAL NEO ENDO (Begin 2004),Human Papillomavirus DNA Testing
+All,V200 ,FOUNDLING HEALTH CARE,Newborn Metabolic and Hemoglobinopathy Screening
+All,V201 ,CARE OF HEALTHY CHLD NEC,Newborn Metabolic and Hemoglobinopathy Screening
+All,V202 ,ROUTIN CHILD HEALTH EXAM,Newborn Metabolic and Hemoglobinopathy Screening
+All,V202 ,ROUTIN CHILD HEALTH EXAM,Newborn Metabolic and Hemoglobinopathy Screening
+All,V700,ROUTINE MEDICAL EXAM,Newborn Metabolic and Hemoglobinopathy Screening
+All,V723,GYNECOLOGIC EXAMINATION (End 2004),Newborn Metabolic and Hemoglobinopathy Screening
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Newborn Metabolic and Hemoglobinopathy Screening
+All,V7262,Routine physicl lab exam (Begin 2009),Newborn Metabolic and Hemoglobinopathy Screening
+All,V7651,SCREEN MALIG COLON (Begin 2000),Newborn Metabolic and Hemoglobinopathy Screening
+All,V1781,FAMILY HX OSTEOPOROSIS (Begin 2005),Osteoporosis Screening
+All,V4981,POSTMENOPAUSAL STATUS (NATURAL) (Begin 2000),Osteoporosis Screening
+All,V700,ROUTINE MEDICAL EXAM,Osteoporosis Screening
+All,V720,EYE & VISION EXAMINATION,Osteoporosis Screening
+All,V723,GYNECOLOGIC EXAMINATION (End 2004),Osteoporosis Screening
+All,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Osteoporosis Screening
+All,V8281,SCREEN FOR OSTEOPOROSIS (Begin 2000),Osteoporosis Screening
+All,V220,SUPERVIS NORMAL 1ST PREG,RH Incompatibility Screening
+All,V221,SUPERVIS OTH NORMAL PREG,RH Incompatibility Screening
+All,V222,PREG STATE- INCIDENTAL,RH Incompatibility Screening
+All,V230,PREG W HX OF INFERTILITY,RH Incompatibility Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,RH Incompatibility Screening
+All,V232,PREG W HX OF ABORTION,RH Incompatibility Screening
+All,V233,GRAND MULTIPARITY,RH Incompatibility Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),RH Incompatibility Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),RH Incompatibility Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),RH Incompatibility Screening
+All,V235,PREG W POOR REPRODUCT HX,RH Incompatibility Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),RH Incompatibility Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),RH Incompatibility Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),RH Incompatibility Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),RH Incompatibility Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),RH Incompatibility Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),RH Incompatibility Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),RH Incompatibility Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),RH Incompatibility Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),RH Incompatibility Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,RH Incompatibility Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),RH Incompatibility Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),RH Incompatibility Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),RH Incompatibility Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),RH Incompatibility Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),RH Incompatibility Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),RH Incompatibility Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),RH Incompatibility Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),RH Incompatibility Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),RH Incompatibility Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),RH Incompatibility Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),RH Incompatibility Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),RH Incompatibility Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),RH Incompatibility Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),RH Incompatibility Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),RH Incompatibility Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),RH Incompatibility Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),RH Incompatibility Screening
+All,V220,SUPERVIS NORMAL 1ST PREG,Screening for Gestational Diabetes
+All,V221,SUPERVIS OTH NORMAL PREG,Screening for Gestational Diabetes
+All,V222,PREG STATE- INCIDENTAL,Screening for Gestational Diabetes
+All,V230,PREG W HX OF INFERTILITY,Screening for Gestational Diabetes
+All,V231,PREG W HX-TROPHOBLAS DIS,Screening for Gestational Diabetes
+All,V232,PREG W HX OF ABORTION,Screening for Gestational Diabetes
+All,V233,GRAND MULTIPARITY,Screening for Gestational Diabetes
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Screening for Gestational Diabetes
+All,V2342,Preg w hx ectopic preg (Begin 2011),Screening for Gestational Diabetes
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Screening for Gestational Diabetes
+All,V235,PREG W POOR REPRODUCT HX,Screening for Gestational Diabetes
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Screening for Gestational Diabetes
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Screening for Gestational Diabetes
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Screening for Gestational Diabetes
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Screening for Gestational Diabetes
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Screening for Gestational Diabetes
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Screening for Gestational Diabetes
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Screening for Gestational Diabetes
+All,V2387,Preg w incon fetl viabil (Begin 2011),Screening for Gestational Diabetes
+All,V2389,OTH HI RISK PREG (Begin 1998),Screening for Gestational Diabetes
+All,V239,SUPRV HIGH-RISK PREG NOS,Screening for Gestational Diabetes
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),Screening for Gestational Diabetes
+All,V9101,Twin gest-monochr/monoam (Begin 2010),Screening for Gestational Diabetes
+All,V9102,Twin gest-monochr/diamni (Begin 2010),Screening for Gestational Diabetes
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),Screening for Gestational Diabetes
+All,V9109,Twin gest-plac/sac undet (Begin 2010),Screening for Gestational Diabetes
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),Screening for Gestational Diabetes
+All,V9111,Triplet gest 2+ monochor (Begin 2010),Screening for Gestational Diabetes
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),Screening for Gestational Diabetes
+All,V9119,Tripl gest-plac/sac und (Begin 2010),Screening for Gestational Diabetes
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),Screening for Gestational Diabetes
+All,V9121,Quad gest 2+ monochorion (Begin 2010),Screening for Gestational Diabetes
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),Screening for Gestational Diabetes
+All,V9129,Quad gest-plac/sac undet (Begin 2010),Screening for Gestational Diabetes
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),Screening for Gestational Diabetes
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),Screening for Gestational Diabetes
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Screening for Gestational Diabetes
+All,V9199,Mult gest-plac/sac undet (Begin 2010),Screening for Gestational Diabetes
+All,V8530,BMI 30.0-30.9 (Begin 2005),Screening for Obesity
+All,V8531,BMI 31.0-31.9 (Begin 2005),Screening for Obesity
+All,V8532,BMI 32.0-32.9 (Begin 2005),Screening for Obesity
+All,V8533,BMI 33.0-33.9 (Begin 2005),Screening for Obesity
+All,V8534,BMI 34.0-34.9 (Begin 2005),Screening for Obesity
+All,V8535,BMI 35.0-35.9 (Begin 2005),Screening for Obesity
+All,V8536,BMI 36.0-36.9 (Begin 2005),Screening for Obesity
+All,V8537,BMI 37.0-37.9 (Begin 2005),Screening for Obesity
+All,V8538,BMI 38.0-38.9 (Begin 2005),Screening for Obesity
+All,V8539,BMI 39.0-39.9 (Begin 2005),Screening for Obesity
+All,V8541,BMI 40.0-44.9 adult (Begin 2010),Screening for Obesity
+All,V8542,BMI 45.0-49.9 adult (Begin 2010),Screening for Obesity
+All,V8543,BMI 50.0-59.9 adult (Begin 2010),Screening for Obesity
+All,V8544,BMI 60.0-69.9 adult (Begin 2010),Screening for Obesity
+All,V8545,BMI 70 and over adult (Begin 2010),Screening for Obesity
+All,27800,OBESITY UNSPECIFIED (Begin 1995),Screening for Obesity
+All,27801,MORBID OBESITY (Begin 1995),Screening for Obesity
+All,V700,ROUTINE MEDICAL EXAM,Syphilis Screening
+All,V745,SCREEN FOR VENERAL DIS,Syphilis Screening
+All,V749,SCREEN-BACTERIAL DIS NOS,Syphilis Screening
+All,V759,SCREEN FOR INFEC DIS NOS,Syphilis Screening
+All,V220,SUPERVIS NORMAL 1ST PREG,Syphilis Screening
+All,V221,SUPERVIS OTH NORMAL PREG,Syphilis Screening
+All,V222,PREG STATE- INCIDENTAL,Syphilis Screening
+All,V230,PREG W HX OF INFERTILITY,Syphilis Screening
+All,V231,PREG W HX-TROPHOBLAS DIS,Syphilis Screening
+All,V232,PREG W HX OF ABORTION,Syphilis Screening
+All,V233,GRAND MULTIPARITY,Syphilis Screening
+All,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Syphilis Screening
+All,V2342,Preg w hx ectopic preg (Begin 2011),Syphilis Screening
+All,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Syphilis Screening
+All,V235,PREG W POOR REPRODUCT HX,Syphilis Screening
+All,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Syphilis Screening
+All,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Syphilis Screening
+All,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Syphilis Screening
+All,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Syphilis Screening
+All,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Syphilis Screening
+All,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Syphilis Screening
+All,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Syphilis Screening
+All,V2387,Preg w incon fetl viabil (Begin 2011),Syphilis Screening
+All,V2389,OTH HI RISK PREG (Begin 1998),Syphilis Screening
+All,V239,SUPRV HIGH-RISK PREG NOS,Syphilis Screening
+All,V9100,Twin gest-plac/sac NOS (Begin 2010),Syphilis Screening
+All,V9101,Twin gest-monochr/monoam (Begin 2010),Syphilis Screening
+All,V9102,Twin gest-monochr/diamni (Begin 2010),Syphilis Screening
+All,V9103,Twin gest-dich/diamniotc (Begin 2010),Syphilis Screening
+All,V9109,Twin gest-plac/sac undet (Begin 2010),Syphilis Screening
+All,V9110,Tripl gest-plac/sac NOS (Begin 2010),Syphilis Screening
+All,V9111,Triplet gest 2+ monochor (Begin 2010),Syphilis Screening
+All,V9112,Triplet gest 2+ monoamn (Begin 2010),Syphilis Screening
+All,V9119,Tripl gest-plac/sac und (Begin 2010),Syphilis Screening
+All,V9120,Quad gest-plac/sac NOS (Begin 2010),Syphilis Screening
+All,V9121,Quad gest 2+ monochorion (Begin 2010),Syphilis Screening
+All,V9122,Quad gest 2+ monoamniotc (Begin 2010),Syphilis Screening
+All,V9129,Quad gest-plac/sac undet (Begin 2010),Syphilis Screening
+All,V9190,Mult gest-plac/sac NOS (Begin 2010),Syphilis Screening
+All,V9191,Mult gest 2+ monochr NEC (Begin 2010),Syphilis Screening
+All,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Syphilis Screening
+All,V9199,Mult gest-plac/sac undet (Begin 2010),Syphilis Screening
+Children,V202,ROUTIN CHILD HEALTH EXAM,Anemia Screening in Children
+Children,V2031,Health supvsn nb <8 days (Begin 2009),Anemia Screening in Children
+Children,V2032,Health supv nb 8-28 days (Begin 2009),Anemia Screening in Children
+Children,V780,SCREEN IRON DEFIC ANEMIA,Anemia Screening in Children
+Children,V200 ,FOUNDLING HEALTH CARE,Developmental/Autism Screening (Bright Futures)
+Children,V201 ,CARE OF HEALTHY CHLD NEC,Developmental/Autism Screening (Bright Futures)
+Children,V202 ,ROUTIN CHILD HEALTH EXAM,Developmental/Autism Screening (Bright Futures)
+Children,V202 ,ROUTIN CHILD HEALTH EXAM,Developmental/Autism Screening (Bright Futures)
+Children,V700,ROUTINE MEDICAL EXAM,Developmental/Autism Screening (Bright Futures)
+Children,V202,ROUTIN CHILD HEALTH EXAM,Dyslipidemia Screening (Bright Futures)
+Children,V7791,SCREEN LIPOID DISORDERS (Begin 2000),Dyslipidemia Screening (Bright Futures)
+Children,V202,ROUTIN CHILD HEALTH EXAM,Hearing Tests (Bright Futures)
+Children,V7219,EXAM EARS & HEARING NEC (Begin 2006),Hearing Tests (Bright Futures)
+Children,V202,ROUTIN CHILD HEALTH EXAM,Lead Screening (Bright Futures)
+Children,V1586,HX-LEAD EXPOSURE (Begin 1995),Lead Screening (Bright Futures)
+Children,V2031,Health supvsn nb <8 days (Begin 2009),Newborn Hearing Screening
+Children,V2032,Health supv nb 8-28 days (Begin 2009),Newborn Hearing Screening
+Children,V030 ,VACCIN FOR CHOLERA,Screening for Visual Impairment in Children
+Children,V031 ,VACC-TYPHOID-PARATYPHOID,Screening for Visual Impairment in Children
+Children,V032 ,VACCIN FOR TUBERCULOSIS,Screening for Visual Impairment in Children
+Children,V033 ,VACCIN FOR PLAGUE,Screening for Visual Impairment in Children
+Children,V034 ,VACCIN FOR TULAREMIA,Screening for Visual Impairment in Children
+Children,V035 ,VACCIN FOR DIPHTHERIA,Screening for Visual Impairment in Children
+Children,V036 ,VACCIN FOR PERTUSSIS,Screening for Visual Impairment in Children
+Children,V037 ,TETANUS TOXOID INOCULAT,Screening for Visual Impairment in Children
+Children,V038 ,VACCIN FOR BACT DIS NEC (End 1994),Screening for Visual Impairment in Children
+Children,V0381,VACCIN FOR HEMOPH INFLUENZA (Begin 1994),Screening for Visual Impairment in Children
+Children,V0382,VACCIN FOR STREP PNEUMON (Begin 1994),Screening for Visual Impairment in Children
+Children,V0389,VACCIN FOR BACT DIS NEC (Begin 1994),Screening for Visual Impairment in Children
+Children,V039 ,VACCIN FOR BACT DIS NOS,Screening for Visual Impairment in Children
+Children,V039 ,VACCIN FOR BACT DIS NOS,Screening for Visual Impairment in Children
+Children,V040 ,VACCIN FOR POLIOMYELITIS,Screening for Visual Impairment in Children
+Children,V041 ,VACCIN FOR SMALLPOX,Screening for Visual Impairment in Children
+Children,V042 ,VACCIN FOR MEASLES,Screening for Visual Impairment in Children
+Children,V043 ,VACCIN FOR RUBELLA,Screening for Visual Impairment in Children
+Children,V044 ,VACCIN FOR YELLOW FEVER,Screening for Visual Impairment in Children
+Children,V045 ,VACCIN FOR RABIES,Screening for Visual Impairment in Children
+Children,V046 ,VACCIN FOR MUMPS,Screening for Visual Impairment in Children
+Children,V047 ,VACCIN FOR COMMON COLD,Screening for Visual Impairment in Children
+Children,V048 ,VACCIN FOR INFLUENZA (End 2003),Screening for Visual Impairment in Children
+Children,V0481,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Screening for Visual Impairment in Children
+Children,V0482,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Screening for Visual Impairment in Children
+Children,V0489,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Screening for Visual Impairment in Children
+Children,V0489,NEED FOR PROPHYLACTIC VACCINATION AND INOCULA (Begin 2003),Screening for Visual Impairment in Children
+Children,V050 ,ARBOVIRUS ENCEPH VACCIN,Screening for Visual Impairment in Children
+Children,V051 ,VACC ARBOVIRAL DIS NEC,Screening for Visual Impairment in Children
+Children,V052 ,VACCIN FOR LEISHMANIASIS,Screening for Visual Impairment in Children
+Children,V053 ,VACCIN FOR VIRAL HEPATITIS (Begin 1993),Screening for Visual Impairment in Children
+Children,V054 ,VACCIN FOR VARICELLA (Begin 1993),Screening for Visual Impairment in Children
+Children,V058 ,VACCIN FOR DISEASE NEC,Screening for Visual Impairment in Children
+Children,V059 ,VACCIN FOR SINGL DIS NOS,Screening for Visual Impairment in Children
+Children,V059 ,VACCIN FOR SINGL DIS NOS,Screening for Visual Impairment in Children
+Children,V060 ,VACCIN FOR CHOLERA + TAB,Screening for Visual Impairment in Children
+Children,V061 ,VACCIN FOR DTP,Screening for Visual Impairment in Children
+Children,V062 ,VACCIN FOR DTP + TAB,Screening for Visual Impairment in Children
+Children,V063 ,VACCIN FOR DTP + POLIO,Screening for Visual Impairment in Children
+Children,V064 ,VAC-MEASLE-MUMPS-RUBELLA,Screening for Visual Impairment in Children
+Children,V065 ,VACCIN FOR TETANUS-DIPHTHERIA (Begin 1994),Screening for Visual Impairment in Children
+Children,V066 ,VACCIN FOR STREP PNEUMON & INFLU (Begin 1994),Screening for Visual Impairment in Children
+Children,V068 ,VAC-DIS COMBINATIONS NEC,Screening for Visual Impairment in Children
+Children,V069 ,VAC-DIS COMBINATIONS NOS,Screening for Visual Impairment in Children
+Children,V069 ,VAC-DIS COMBINATIONS NOS,Screening for Visual Impairment in Children
+Children,V200 ,FOUNDLING HEALTH CARE,Screening for Visual Impairment in Children
+Children,V201 ,CARE OF HEALTHY CHLD NEC,Screening for Visual Impairment in Children
+Children,V202 ,ROUTIN CHILD HEALTH EXAM,Screening for Visual Impairment in Children
+Children,V202 ,ROUTIN CHILD HEALTH EXAM,Screening for Visual Impairment in Children
+Children,V700,ROUTINE MEDICAL EXAM,Screening for Visual Impairment in Children
+Children,V720,EYE & VISION EXAMINATION,Screening for Visual Impairment in Children
+Children,V723,GYNECOLOGIC EXAMINATION (End 2004),Screening for Visual Impairment in Children
+Children,V7231,ROUTINE GYN EXAMINATION (Begin 2004),Screening for Visual Impairment in Children
+Children,3670,HYPERMETROPIA,Screening for Visual Impairment in Children
+Children,3671,MYOPIA,Screening for Visual Impairment in Children
+Children,3674,PRESBYOPIA,Screening for Visual Impairment in Children
+Children,3674,PRESBYOPIA,Screening for Visual Impairment in Children
+Children,79551,Nonsp rea skn test wo tb (Begin 2011),TB Testing (Bright Futures)
+Children,79552,Nonsp rea gma interferon (Begin 2011),TB Testing (Bright Futures)
+Children,V202,ROUTIN CHILD HEALTH EXAM,TB Testing (Bright Futures)
+Children,V741,SCREENING-PULMONARY TB,TB Testing (Bright Futures)
+Contraception,V252,STERILIZATION,Anesthesia for Sterilization
+Contraception,V2501,PRESCRIP-ORAL CONTRACEPT,Contraceptive Management
+Contraception,V2502,INITIATE CONTRACEPT NEC,Contraceptive Management
+Contraception,V2503,ENCOUNTER FOR EMERGENCY CONTRACEPTIVE COUNSEL (Begin 2003),Contraceptive Management
+Contraception,V2509,CONTRACEPTIVE MANGMT NEC,Contraceptive Management
+Contraception,V2511,Insertion of iud (Begin 2010),Contraceptive Management
+Contraception,V2512,Removal of iud (Begin 2010),Contraceptive Management
+Contraception,V2513,Remove/insert iud (Begin 2010),Contraceptive Management
+Contraception,V2540,CONTRACEPT SURVEILL NOS,Contraceptive Management
+Contraception,V2541,CONTRACEPT PILL SURVEILL,Contraceptive Management
+Contraception,V2542,IUD SURVEILLANCE,Contraceptive Management
+Contraception,V2543,IMPLNT SUBDERM CONTRACEPT (Begin 1992),Contraceptive Management
+Contraception,V2549,CONTRACEPT SURVEILL NEC,Contraceptive Management
+Contraception,V255,INSERT IMPLNT SUBD CONTR (Begin 1992),Contraceptive Management
+Contraception,V258,CONTRACEPTIVE MANGMT NEC,Contraceptive Management
+Contraception,V259,CONTRACEPTIVE MANGMT NOS,Contraceptive Management
+Pregnancy,V220,SUPERVIS NORMAL 1ST PREG,Pregnancy
+Pregnancy,V221,SUPERVIS OTH NORMAL PREG,Pregnancy
+Pregnancy,V222,PREG STATE- INCIDENTAL,Pregnancy
+Pregnancy,V230,PREG W HX OF INFERTILITY,Pregnancy
+Pregnancy,V231,PREG W HX-TROPHOBLAS DIS,Pregnancy
+Pregnancy,V232,PREG W HX OF ABORTION,Pregnancy
+Pregnancy,V233,GRAND MULTIPARITY,Pregnancy
+Pregnancy,V2341,PREG WITH HISTORY OF PRE-TERM LABOR (Begin 2002),Pregnancy
+Pregnancy,V2342,Preg w hx ectopic preg (Begin 2011),Pregnancy
+Pregnancy,V2349,PREG WITH OTHER POOR OBSTETRIC HISTORY (Begin 2002),Pregnancy
+Pregnancy,V235,PREG W POOR REPRODUCT HX,Pregnancy
+Pregnancy,V237,INSUFFICNT PRENATAL CARE (Begin 1989),Pregnancy
+Pregnancy,V2381,PRIMIGRAVIDA (35 OR OLDER) (Begin 1998),Pregnancy
+Pregnancy,V2382,MULTIGRAV (35 OR OLDER) (Begin 1998),Pregnancy
+Pregnancy,V2383,PRIMIGRAVIDA (LESS THAN 16) (Begin 1998),Pregnancy
+Pregnancy,V2384,MULTIGRAVIDA (LESS THAN 16) (Begin 1998),Pregnancy
+Pregnancy,V2385,PREGNT-ASSIST REPRO TECH (Begin 2008),Pregnancy
+Pregnancy,V2386,PREG-HX IN UTRO PREV PRG (Begin 2008),Pregnancy
+Pregnancy,V2387,Preg w incon fetl viabil (Begin 2011),Pregnancy
+Pregnancy,V2389,OTH HI RISK PREG (Begin 1998),Pregnancy
+Pregnancy,V239,SUPRV HIGH-RISK PREG NOS,Pregnancy
+Pregnancy,V9100,Twin gest-plac/sac NOS (Begin 2010),Pregnancy
+Pregnancy,V9101,Twin gest-monochr/monoam (Begin 2010),Pregnancy
+Pregnancy,V9102,Twin gest-monochr/diamni (Begin 2010),Pregnancy
+Pregnancy,V9103,Twin gest-dich/diamniotc (Begin 2010),Pregnancy
+Pregnancy,V9109,Twin gest-plac/sac undet (Begin 2010),Pregnancy
+Pregnancy,V9110,Tripl gest-plac/sac NOS (Begin 2010),Pregnancy
+Pregnancy,V9111,Triplet gest 2+ monochor (Begin 2010),Pregnancy
+Pregnancy,V9112,Triplet gest 2+ monoamn (Begin 2010),Pregnancy
+Pregnancy,V9119,Tripl gest-plac/sac und (Begin 2010),Pregnancy
+Pregnancy,V9120,Quad gest-plac/sac NOS (Begin 2010),Pregnancy
+Pregnancy,V9121,Quad gest 2+ monochorion (Begin 2010),Pregnancy
+Pregnancy,V9122,Quad gest 2+ monoamniotc (Begin 2010),Pregnancy
+Pregnancy,V9129,Quad gest-plac/sac undet (Begin 2010),Pregnancy
+Pregnancy,V9190,Mult gest-plac/sac NOS (Begin 2010),Pregnancy
+Pregnancy,V9191,Mult gest 2+ monochr NEC (Begin 2010),Pregnancy
+Pregnancy,V9192,Mult gest 2+ monoamn NEC (Begin 2010),Pregnancy
+Pregnancy,V9199,Mult gest-plac/sac undet (Begin 2010),Pregnancy
+Hyptertension,4010,MALIGNANT HYPERTENSION,Essential Hypertension
+Hyptertension,4011,BENIGN HYPERTENSION,Essential Hypertension
+Hyptertension,4019,HYPERTENSION NOS,Essential Hypertension
+Hyptertension,40200,MAL HYPERTEN HRT DIS NOS,Hypertensive Heart Disease
+Hyptertension,40201,MAL HYPERT HRT DIS W CHF,Hypertensive Heart Disease
+Hyptertension,40210,BEN HYPERTEN HRT DIS NOS,Hypertensive Heart Disease
+Hyptertension,40211,BENIGN HYP HRT DIS W CHF,Hypertensive Heart Disease
+Hyptertension,40290,HYPERTENSIVE HRT DIS NOS,Hypertensive Heart Disease
+Hyptertension,40291,HYPERTEN HEART DIS W CHF,Hypertensive Heart Disease
+Hyptertension,40300,MAL HYP REN W/O REN FAIL (Begin 1989),Hypertensive Chronic Kidney Disease
+Hyptertension,40301,MAL HYP REN W RENAL FAIL (Begin 1989),Hypertensive Chronic Kidney Disease
+Hyptertension,40310,BEN HYP REN W/O REN FAIL (Begin 1989),Hypertensive Chronic Kidney Disease
+Hyptertension,40311,BEN HYP RENAL W REN FAIL (Begin 1989),Hypertensive Chronic Kidney Disease
+Hyptertension,40390,HYP REN NOS W/O REN FAIL (Begin 1989),Hypertensive Chronic Kidney Disease
+Hyptertension,40391,HYP RENAL NOS W REN FAIL (Begin 1989),Hypertensive Chronic Kidney Disease
+Hyptertension,40400,MAL HY HT/REN W/O CHF/RF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40401,MAL HYPER HRT/REN W CHF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40402,MAL HY HT/REN W REN FAIL (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40403,MAL HYP HRT/REN W CHF  &  RF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40410,BEN HY HT/REN W/O CHF/RF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40411,BEN HYPER HRT/REN W CHF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40412,BEN HY HT/REN W REN FAIL (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40413,BEN HYP HRT/REN W CHF  &  RF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40490,HY HT/REN NOS W/O CHF/RF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40491,HYPER HRT/REN NOS W CHF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40492,HY HT/REN NOS W REN FAIL (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40493,HYP HT/REN NOS W CHF  &  RF (Begin 1989),Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40501,MAL RENOVASC HYPERTENS,Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40509,MAL SECOND HYPERTEN NEC,Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40511,BENIGN RENOVASC HYPERTEN,Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40519,BENIGN SECOND HYPERT NEC,Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40591,RENOVASC HYPERTENSION,Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,40599,SECOND HYPERTENSION NEC,Hypertensive Heart and Chronic Kidney Disease
+Hyptertension,64201,ESSEN HYPERTEN-DELIVERED,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64203,ESSEN HYPERTEN-ANTEPART,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64204,ESSEN HYPERTEN-POSTPART,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64211,RENAL HYPERTEN PG-DELIV,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64213,RENAL HYPERTEN-ANTEPART,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64214,RENAL HYPERTEN-POSTPART,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64221,OLD HYPERTEN NEC-DELIVER,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64223,OLD HYPERTEN NEC-ANTEPAR,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64224,OLD HYPERTEN NEC-POSTPAR,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64230,TRANS HYPERTEN PREG-UNSP,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64231,TRANS HYPERTEN-DELIVERED,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64233,TRANS HYPERTEN-ANTEPART,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64234,TRANS HYPERTEN-POSTPART,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64291,HYPERTENS NOS-DELIVERED,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64293,HYPERTENS NOS-ANTEPARTUM,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Hyptertension,64294,HYPERTENS NOS-POSTPARTUM,"Hypertension Complicating Pregnancy, Childbirth and the Puerperium"
+Diabetes,24900,SEC DM WO CMP NT ST UNCN (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24901,SEC DM WO COMP UNCONTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24910,SEC DM KETO NT ST UNCNTR (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24911,SEC DM KETOACD UNCNTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24920,SEC DM HPROS NT ST UNCNR (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24921,SEC DM HPROSMLR UNCNTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24930,SEC DM OT CMA NT ST UNCN (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24931,SEC DM OTH COMA UNCNTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24940,SEC DM RENL NT ST UNCNTR (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24941,SEC DM RENAL UNCONTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24950,SEC DM OPHTH NT ST UNCN (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24951,SEC DM OPHTH UNCONTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24960,SEC DM NEURO NT ST UNCN (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24961,SEC DM NEURO UNCONTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24970,SEC DM CIRC NT ST UNCNTR (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24971,SEC DM CIRC UNCONTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24980,SEC DM OTH NT ST UNCONTR (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24981,SEC DM OTHER UNCONTRLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24990,SEC DM UNSP NT ST UNCON (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,24991,SEC DM UNSP UNCONTROLD (Begin 2008),Secondary Diabetes Mellitus
+Diabetes,25000,DIABETES UNCOMPL TYPE II,Diabetes Mellitus
+Diabetes,25001,DIABETES UNCOMPL TYPE I,Diabetes Mellitus
+Diabetes,25002,DIABETES MELL TYPE II UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25003,DIABETES MELL TYPE I UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25010,DIAB KETOACIDOSIS TYP II,Diabetes Mellitus
+Diabetes,25011,DIAB KETOACIDOSIS TYPE I,Diabetes Mellitus
+Diabetes,25012,DIAB KETOACID TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25013,DIAB KETOACID TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25020,DM HYPEROSM COMA TYPE II,Diabetes Mellitus
+Diabetes,25021,DM HYPEROSM COMA TYPE I,Diabetes Mellitus
+Diabetes,25022,DM W/ HYPEROSMO TYPE II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25023,DM W/ HYPEROSMO TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25030,DIABETES COMA NEC TYP II,Diabetes Mellitus
+Diabetes,25031,DIABETES COMA NEC TYPE I,Diabetes Mellitus
+Diabetes,25032,DIAB COMA NEC TYP II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25033,DIAB COMA NEC TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25040,DIAB RENAL MANIF TYPE II,Diabetes Mellitus
+Diabetes,25041,DIAB RENAL MANIF TYPE I,Diabetes Mellitus
+Diabetes,25042,DIAB RENAL MANIF TYPE II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25043,DIAB RENAL MANIF TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25050,DIAB EYE MANIF TYPE II,Diabetes Mellitus
+Diabetes,25051,DIAB EYE MANIF TYPE I,Diabetes Mellitus
+Diabetes,25052,DIAB EYE MANIF TYPE II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25053,DIAB EYE MANIF TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25060,DIAB NEURO MANIF TYPE II,Diabetes Mellitus
+Diabetes,25061,DIAB NEURO MANIF TYPE I,Diabetes Mellitus
+Diabetes,25062,DIAB NEURO MANIF TYPE II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25063,DIAB NEURO MANIF TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25070,DIAB CIRCULAT DIS TYP II,Diabetes Mellitus
+Diabetes,25071,DIAB CIRCULAT DIS TYPE I,Diabetes Mellitus
+Diabetes,25072,DIAB CIRCULAT DIS TYP II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25073,DIAB CIRCULAT DIS TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25080,DIAB W MANIF NEC TYPE II,Diabetes Mellitus
+Diabetes,25081,DIAB W MANIF NEC TYPE I,Diabetes Mellitus
+Diabetes,25082,DIAB W MANIF NEC TYPE II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25083,DIAB W MANIF NEC TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25090,DIAB W COMPL NOS TYPE II,Diabetes Mellitus
+Diabetes,25091,DIAB W COMPL NOS TYPE I,Diabetes Mellitus
+Diabetes,25092,DIAB W COMPL NOS TYPE II DM UNCONT (Begin 1993),Diabetes Mellitus
+Diabetes,25093,DIAB W COMPL NOS TYPE I DM UNCONT (Begin 1993),Diabetes Mellitus
