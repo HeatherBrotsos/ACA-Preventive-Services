@@ -36,4 +36,4 @@ A high level description of the process to create these files follows.
 
 **Step 3**: Add relevant restrictions and date each service is effective.
 
-
+Additional description is located [here](https://github.com/HeatherBrotsos/ACA-Preventive-Services/blob/master/Method%20Details.md).
